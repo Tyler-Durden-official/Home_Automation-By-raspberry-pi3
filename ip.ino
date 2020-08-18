@@ -50,8 +50,8 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "ip"
-#define WLAN_PASS       "krishna123"
+#define WLAN_SSID       "ip"           //User_name
+#define WLAN_PASS       "krishna123"   //Password
 
 /************************* Adafruit.io Setup *********************************/
 
